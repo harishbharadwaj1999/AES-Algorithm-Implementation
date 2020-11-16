@@ -4,11 +4,15 @@ In this repository, the AES-128 algorithm has been implemented in both a serial 
 
 The implementation compares the advantages of using Numpy and Numba libraries against using only python.
 
+The Parallel algorithm uses Numba library for parallelising and vectorizing the functions and uses Numpy to handle the data efficiently.
+
+The Serial algorithm does not use any library and runs in a serial order.
+
 ## Built using-
 
--[Numpy]
--[Numba]
--[Pandas]
+- [Numpy](https://numpy.org)
+- [Numba](https://numba.pydata.org)
+- [Pandas](https://pandas.pydata.org)
 
 ## Setting up the Environment
 
