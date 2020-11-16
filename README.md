@@ -46,3 +46,8 @@ Installed kernelspec venv in /home/user/.local/share/jupyter/kernels/venv
 ```
 
 That's it!! While opening the files in Jupyter or Jupyter notebook, choose the saved kernel name (here "venv") instead of python or python3.
+
+## Contributers-
+
+- [Harish Bharadwaj.S](https://github.com/harishbharadwaj1999)
+- [Shravan.A.J](https://github.com/ShravanCool)
